@@ -1,0 +1,15 @@
+{
+	"name": "botmate-app",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "xencodes",
+	"license": "ISC",
+	"dependencies": {
+		"botmate": "0.0.1-alpha.24"
+	}
+}
